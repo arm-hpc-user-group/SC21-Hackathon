@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: "Arm HPC Users Group Hackathon - SC21"
+description: "Virtual | 11-12 November 2021"
+show_downloads: false
+github:
+  is_project_page: false
