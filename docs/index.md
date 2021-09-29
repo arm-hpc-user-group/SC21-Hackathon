@@ -15,7 +15,10 @@ This event is generously supported by **AWS**, **OCI**, **Stony Brook University
 
  * **System Access**: Login details will be provided on the day of the event. We will be using multiple Arm-based HPC systems including:
    * AWS Gravition 2
-   * The [_Ookami_ testbed system at Stony Brook University](https://www.stonybrook.edu/commcms/ookami/).
+   * OCI A1
+   * Stony Brook University's [_Ookami_](https://www.stonybrook.edu/commcms/ookami/).
+   * University of Bristol's [_Isambard 2_, the largest Arm-based supercomputer in Europe](https://insidehpc.com/2020/02/isambard-2-at-uk-met-office-to-be-largest-arm-supercomputer-in-europe/).
+
 
 
 # Overview
