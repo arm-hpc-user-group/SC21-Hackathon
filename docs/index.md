@@ -3,7 +3,7 @@
 The event starts at **7:00am PST / 10:00am EST / 2:00pm BST** with cluster login 
 instructions and an overview of the assorted Arm HPC systems available at this event.
 
-This event is generously supported by **AWS** and **Stony Brook University**.  Thanks!
+This event is generously supported by **AWS**, **OCI**, **Stony Brook University**, and **University of Bristol**.  Thanks!
 
  * **Slides**: Coming soon
           
