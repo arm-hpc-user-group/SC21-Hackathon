@@ -13,7 +13,7 @@ instructions and an overview of the assorted Arm HPC systems available at this e
           
  * **Hands-on Materials**: Coming soon
 
- * **Registration**: Coming soon
+ * **Registration**: [Register via EventBrite](https://www.eventbrite.com/e/arm-hpc-users-group-sc21-hackathon-registration-189172338557)
 
  * **Communication**: A Zoom meeting link will be provided to the registered attendees. *Please make sure that you have updated to the latest version of Zoom.*  [See this help article for instructions](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version).
 
