@@ -6,12 +6,15 @@ This event is generously supported by **AWS**, **OCI**, **Stony Brook University
 
 # Schedule and Logistics
 
-The event starts at **7:00am PST / 10:00am EST / 2:00pm BST** with cluster login 
+![Schedule](schedule.png)
+
+The event will kick off at **8:00am BST, 8:00AM CST, and 8:00AM JST** with cluster login 
 instructions and an overview of the assorted Arm HPC systems available at this event.
+Our schedule includes a mix of talks, guided tours of HPC applications, and free time to hack.
 
  * **Slides**: Coming soon
           
- * **Hands-on Materials**: Coming soon
+ * **Hands-on Materials**: https://github.com/arm-hpc-user-group/SC21-Hackathon
 
  * **Registration**: [Register via EventBrite](https://www.eventbrite.com/e/arm-hpc-users-group-sc21-hackathon-registration-189172338557)
 
