@@ -8,7 +8,7 @@ This event is generously supported by **AWS**, **OCI**, **Stony Brook University
 
 ![Schedule](schedule.png)
 
-The event will kick off at **8:00am BST, 8:00AM CST, and 8:00AM JST** with cluster login 
+The event will kick off on 11 November at **8:00am JST, 8:00AM BST, and 8:00AM CST** with cluster login 
 instructions and an overview of the assorted Arm HPC systems available at this event.
 Our schedule includes a mix of talks, guided tours of HPC applications, and free time to hack.
 
