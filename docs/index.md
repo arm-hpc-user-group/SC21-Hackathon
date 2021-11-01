@@ -1,6 +1,10 @@
+# Registration
+
+[Register via EventBrite](https://www.eventbrite.com/e/arm-hpc-users-group-sc21-hackathon-registration-189172338557)  This is a no-charge, non-NDA event, however registration is limited.  Sign up today! 
+
 # Overview
 
-Run your favorite HPC applications on record-setting Arm-based HPC kit at a two-day hackathon for HPC developers.  Fujitsu A64FX, AWS Graviton 2, and Oracle Cloud Infrastructure (OCI) Ampere A1 instances with Altra CPUs will be provided.  Commercially supported and open source compilers, libraries, and tools will be available with experts from Arm, NVIDIA, and the community on-hand to answer any questions.  Use any of the provided example applications to learn about today's Arm-based CPUs or bring your favorite application and work with Arm's HPC experts on porting and tuning.  This is a no-charge, non-NDA event, however registration is limited.  Sign up today! 
+Run your favorite HPC applications on record-setting Arm-based HPC kit at a two-day hackathon for HPC developers.  Fujitsu A64FX, AWS Graviton 2, and Oracle Cloud Infrastructure (OCI) Ampere A1 instances with Altra CPUs will be provided.  Commercially supported and open source compilers, libraries, and tools will be available with experts from Arm, NVIDIA, and the community on-hand to answer any questions.  Use any of the provided example applications to learn about today's Arm-based CPUs or bring your favorite application and work with Arm's HPC experts on porting and tuning.  
 
 This event is generously supported by **AWS**, **OCI**, **Stony Brook University**, and **The GW4 Alliance**.  Thanks!
 
