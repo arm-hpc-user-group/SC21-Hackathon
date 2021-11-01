@@ -4,7 +4,10 @@
 
 # Overview
 
-Run your favorite HPC applications on record-setting Arm-based HPC kit at a two-day hackathon for HPC developers.  Fujitsu A64FX, AWS Graviton 2, and Oracle Cloud Infrastructure (OCI) Ampere A1 instances with Altra CPUs will be provided.  Commercially supported and open source compilers, libraries, and tools will be available with experts from Arm, NVIDIA, and the community on-hand to answer any questions.  Use any of the provided example applications to learn about today's Arm-based CPUs or bring your favorite application and work with Arm's HPC experts on porting and tuning.  
+Run your favorite HPC applications on record-setting Arm-based HPC kit at a two-day hackathon for HPC developers.  
+Fujitsu A64FX, AWS Graviton 2, and Oracle Cloud Infrastructure (OCI) Ampere A1 instances with Ampere Altra CPUs will be provided.  
+Commercially supported and open source compilers, libraries, and tools will be available with experts from Arm, NVIDIA, and the community on-hand to answer any questions.  
+Use any of the provided example applications to learn about today's Arm-based CPUs or bring your favorite application and work with Arm's HPC experts on porting and tuning.  
 
 This event is generously supported by **AWS**, **OCI**, **Stony Brook University**, and **The GW4 Alliance**.  Thanks!
 
@@ -25,10 +28,10 @@ Our schedule includes a mix of talks, guided tours of HPC applications, and free
  * **Communication**: A Zoom meeting link will be provided to the registered attendees. *Please make sure that you have updated to the latest version of Zoom.*  [See this help article for instructions](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version).
 
  * **System Access**: Login details will be provided on the day of the event. We will be using multiple Arm-based HPC systems including:
-   * AWS Gravition 2
-   * OCI Ampere A1
-   * Stony Brook University's [_Ookami_](https://www.stonybrook.edu/commcms/ookami/).
-   * University of Bristol's [_Isambard 2_, the largest Arm-based supercomputer in Europe](https://insidehpc.com/2020/02/isambard-2-at-uk-met-office-to-be-largest-arm-supercomputer-in-europe/).
+   * AWS Gravition 2 instances
+   * OCI Ampere A1 instances with Ampere Altra CPUs
+   * Stony Brook University's [_Ookami_](https://www.stonybrook.edu/commcms/ookami/) supercomputer.
+   * University of Bristol's [_Isambard 2_](https://gw4-isambard.github.io/docs/), [the largest Arm-based supercomputer in Europe](https://insidehpc.com/2020/02/isambard-2-at-uk-met-office-to-be-largest-arm-supercomputer-in-europe/).
 
 # Contact
 
