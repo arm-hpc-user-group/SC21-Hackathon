@@ -1,1 +1,6 @@
 bin/*
+*.mod
+BT/blk_par.h
+BT/npbparams.h
+sys/setparams
+
