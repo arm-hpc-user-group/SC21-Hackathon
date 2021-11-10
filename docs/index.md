@@ -14,7 +14,7 @@ Our schedule includes a mix of talks, guided tours of HPC applications, and free
 
  * **Slides**: A link to the slides will be sent to all registered attendees.  Check for email from Eventbrite.
           
- * **Hands-on Materials**: https://github.com/arm-hpc-user-group/SC21-Hackathon
+ * **Hands-on Materials**: [https://github.com/arm-hpc-user-group/SC21-Hackathon](https://github.com/arm-hpc-user-group/SC21-Hackathon)
 
  * **Registration**: [Register via EventBrite](https://www.eventbrite.com/e/arm-hpc-users-group-sc21-hackathon-registration-189172338557)
 
