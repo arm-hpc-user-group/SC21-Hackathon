@@ -63,56 +63,56 @@ site_configuration = {
         },
         {
             'name': 'aws_gcc_10.3',
-			'modules': ['openmpi/gcc-10.3.0/4.1.1'],
+            'modules': ['openmpi/gcc-10.3.0/4.1.1'],
             'cc': 'gcc',
             'cxx': 'g++',
             'ftn': 'gfortran'
         },
         {
             'name': 'aws_gcc_11.2',
-			'modules': ['openmpi/gcc-11.2.0/4.1.1'],
+            'modules': ['openmpi/gcc-11.2.0/4.1.1'],
             'cc': 'gcc',
             'cxx': 'g++',
             'ftn': 'gfortran'
         },
         {
             'name': 'aws_acfl_21.1',
-			'modules': ['openmpi/acfl-21.1/4.1.1'],
+            'modules': ['openmpi/acfl-21.1/4.1.1'],
             'cc': 'armclang',
             'cxx': 'armclang++',
             'ftn': 'armflang'
         },
         {
             'name': 'aws_nvhpc_21.2',
-			'modules': ['openmpi/nvhpc-21.2/4.1.1'],
+            'modules': ['openmpi/nvhpc-21.2/4.1.1'],
             'cc': 'nvc',
             'cxx': 'nvc++',
             'ftn': 'nvfortran'
         },
         {
             'name': 'oci_gcc_10.2',
-			'modules': ['Generic-AArch64/RHEL/8/gcc-10.2.0/openmpi/4.1.1'],
+            'modules': ['Generic-AArch64/RHEL/8/gcc-10.2.0/openmpi/4.1.1'],
             'cc': 'gcc',
             'cxx': 'g++',
             'ftn': 'gfortran'
         },
         {
             'name': 'oci_gcc_11.2',
-			'modules': ['Generic-AArch64/RHEL/8/gcc-11.2.0/openmpi/4.1.1'],
+            'modules': ['Generic-AArch64/RHEL/8/gcc-11.2.0/openmpi/4.1.1'],
             'cc': 'gcc',
             'cxx': 'g++',
             'ftn': 'gfortran'
         },
         {
             'name': 'oci_acfl_21.0',
-			'modules': ['Generic-AArch64/RHEL/8/acfl-21.0/openmpi/4.1.1'],
+            'modules': ['Generic-AArch64/RHEL/8/acfl-21.0/openmpi/4.1.1'],
             'cc': 'armclang',
             'cxx': 'armclang++',
             'ftn': 'armflang'
         },
         {
             'name': 'oci_nvhpc_21.9',
-			'modules': ['nvhpc/21.9'],
+            'modules': ['nvhpc/21.9'],
             'cc': 'nvc',
             'cxx': 'nvc++',
             'ftn': 'nvfortran'
@@ -155,4 +155,3 @@ site_configuration = {
         }
     ],
 }
-
