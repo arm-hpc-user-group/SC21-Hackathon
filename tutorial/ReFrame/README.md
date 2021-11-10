@@ -122,7 +122,12 @@ Firstly, ReFrame has run 10 tests - for our simple `Hello World` example.
 In our `setting.py` file, we have described the system we are running on (an AWS cluster in this case).
 We have said that we can either run on the login node, or the compute nodes (login and compute).
 
-We have also said that on both of these node types we have 5 compilers available (system GCC (7.3), GCC-10.3, GCC-11.2, ACfL-21.1 and NVHPC-21.2).
+We have also said that on both of these node types we have 5 compilers available:
+* system GCC (7.3)
+* GCC-10.3
+* GCC-11.2
+* ACfL-21.1
+* NVHPC-21.2
 
 Thus ReFrame generates the combinatorial set of these tests: 10 in total.
 
