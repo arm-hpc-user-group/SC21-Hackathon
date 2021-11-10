@@ -1,0 +1,17 @@
+~$*
+.DS_Store
+*.o
+*.a
+*.so
+*.exe
+*.d
+*.log
+perf.data*
+build/
+*.lst
+*.dis
+*.opt.yaml
+
+#Fujitsu profiler files
+EProf*.pri
+pa*.csv
