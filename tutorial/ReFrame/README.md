@@ -15,7 +15,7 @@ export PATH=$PWD/bin:$PATH
 
 ```
 mkdir ~/.reframe
-wget -O ~/.reframe/settings.py <path to setting.py> 
+wget -O ~/.reframe/settings.py https://raw.githubusercontent.com/OliverPerks/SC21-Hackathon/feature/reframe/tutorial/ReFrame/settings.py 
 ```
 
 
