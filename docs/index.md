@@ -8,8 +8,8 @@ This event is generously supported by **AWS**, **OCI**, **Stony Brook University
  * **SPECFEM3D Guided Tour**: [Slides](https://drive.google.com/file/d/11ueDwJH0pKXy2D7WXaxrUs4M-MPMuReU/view?usp=sharing), Video coming soon
  * **Supercomputer "Fugaku"**: [Slides](https://drive.google.com/file/d/1qQi9qtQVjAhw2ELrLuiVojoDP8PReXCp/view?usp=sharing), Video coming soon
  * **GROMACS Guided Tour**: Slides coming soon, [Video](https://www.youtube.com/watch?v=PBhTPpjn8QE)
- * **Spack and ReFrame Introduction**: Slides coming soon, [Video](https://www.youtube.com/watch?v=E5bwCtRZmRQ)
- * **OpenFOAM Guided Tour**: Slides coming soon, Video coming soon
+ * **Spack and ReFrame Introduction**: [Slides](https://drive.google.com/file/d/18CKvnNnP9JwVLKv4k2vzJ96JwAqNKz95/view?usp=sharing), [Video](https://www.youtube.com/watch?v=E5bwCtRZmRQ)
+ * **OpenFOAM Guided Tour**: [Slides](https://drive.google.com/file/d/1CRwht3mg1Uw47WENE0TOY3pys2pJHUm1/view?usp=sharing), Video coming soon
 
 
 
