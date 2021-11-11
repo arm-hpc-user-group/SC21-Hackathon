@@ -5,7 +5,7 @@ Run your favorite HPC applications on record-setting Arm-based HPC kit at a two-
 This event is generously supported by **AWS**, **OCI**, **Stony Brook University**, and **The GW4 Alliance**.  Thanks!
 
 # Slides, Videos, etc.
- * **SPECFEM3D Guided Tour**: [Slides](https://drive.google.com/file/d/11ueDwJH0pKXy2D7WXaxrUs4M-MPMuReU/view?usp=sharing), Video coming soon
+ * **SPECFEM3D Guided Tour**: [Slides](https://drive.google.com/file/d/11ueDwJH0pKXy2D7WXaxrUs4M-MPMuReU/view?usp=sharing), [Video](https://youtu.be/SAt6tJ9IqwA)
  * **Supercomputer "Fugaku"**: [Slides](https://drive.google.com/file/d/1qQi9qtQVjAhw2ELrLuiVojoDP8PReXCp/view?usp=sharing), Video coming soon
  * **GROMACS Guided Tour**: Slides coming soon, [Video](https://www.youtube.com/watch?v=PBhTPpjn8QE)
  * **Spack and ReFrame Introduction**: [Slides](https://drive.google.com/file/d/18CKvnNnP9JwVLKv4k2vzJ96JwAqNKz95/view?usp=sharing), [Video](https://www.youtube.com/watch?v=E5bwCtRZmRQ)
