@@ -17,15 +17,10 @@ This event is generously supported by **AWS**, **OCI**, **Stony Brook University
 The event will kick off on 11 November at **8:00am JST, 8:00AM BST, and 8:00AM CST** with cluster login 
 instructions and an overview of the assorted Arm HPC systems available at this event.
 Our schedule includes a mix of talks, guided tours of HPC applications, and free time to hack.
-
- * **Slides**: A link to the slides will be sent to all registered attendees.  Check for email from Eventbrite.
-          
- * **Hands-on Materials**: [https://github.com/arm-hpc-user-group/SC21-Hackathon](https://github.com/arm-hpc-user-group/SC21-Hackathon)
-
+        
  * **Registration**: [Register via EventBrite](https://www.eventbrite.com/e/arm-hpc-users-group-sc21-hackathon-registration-189172338557)
-
+ * **Hands-on Materials**: [https://github.com/arm-hpc-user-group/SC21-Hackathon](https://github.com/arm-hpc-user-group/SC21-Hackathon)
  * **Communication**: A Zoom meeting link will be provided to the registered attendees. *Please make sure that you have updated to the latest version of Zoom.*  [See this help article for instructions](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version).
-
  * **System Access**: Login details will be provided on the day of the event.  We will be using multiple Arm-based HPC systems including:
    * AWS Gravition 2 instances
    * OCI Ampere A1 instances with Ampere Altra CPUs
