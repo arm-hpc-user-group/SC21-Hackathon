@@ -9,8 +9,9 @@ This event is generously supported by **AWS**, **OCI**, **Stony Brook University
  * **Supercomputer "Fugaku"**: [Slides](https://drive.google.com/file/d/1qQi9qtQVjAhw2ELrLuiVojoDP8PReXCp/view?usp=sharing), [Video](https://youtu.be/oO5GN1kaFFc)
  * **GROMACS Guided Tour**: Slides coming soon, [Video](https://www.youtube.com/watch?v=PBhTPpjn8QE)
  * **Spack and ReFrame Introduction**: [Slides](https://drive.google.com/file/d/18CKvnNnP9JwVLKv4k2vzJ96JwAqNKz95/view?usp=sharing), [Video](https://www.youtube.com/watch?v=E5bwCtRZmRQ)
- * **OpenFOAM Guided Tour**: [Slides](https://drive.google.com/file/d/1CRwht3mg1Uw47WENE0TOY3pys2pJHUm1/view?usp=sharing), Video coming soon
- * **Ookami**: [Slides](https://drive.google.com/file/d/1YhXn9tSrnEld6ecUKozFD3kTztXBd-ph/view?usp=sharing), Video coming soon
+ * **OpenFOAM Guided Tour**: [Slides](https://drive.google.com/file/d/1CRwht3mg1Uw47WENE0TOY3pys2pJHUm1/view?usp=sharing), [Video](https://youtu.be/RuiwsnPkoic)
+ * **Ookami**: [Slides](https://drive.google.com/file/d/1YhXn9tSrnEld6ecUKozFD3kTztXBd-ph/view?usp=sharing), [Video](https://youtu.be/DoBDe2plgI8)
+ * **Oracle Cloud, Arm, and HPC**: [Slides](https://drive.google.com/file/d/174mBZuXlwBN4U714MEIi4_1wu6MaMFZj/view?usp=sharing), Video coming soon
 
 
 
