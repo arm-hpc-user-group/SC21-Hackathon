@@ -16,8 +16,8 @@ This event is generously supported by **AWS**, **OCI**, **Stony Brook University
  * Ookami: [Slides](https://drive.google.com/file/d/1YhXn9tSrnEld6ecUKozFD3kTztXBd-ph/view?usp=sharing), [Video](https://youtu.be/DoBDe2plgI8)
  * Oracle Cloud, Arm, and HPC: [Slides](https://drive.google.com/file/d/174mBZuXlwBN4U714MEIi4_1wu6MaMFZj/view?usp=sharing), [Video](https://www.youtube.com/watch?v=_dDMn1ckqhQ)
  * CloverLeaf3D Guided Tour: Slides coming soon, Video coming soon
- * NWChem Guided Tour: Slides coming soon, [Video](https://youtu.be/GJ_oubwXUXA)
- * Math Libraries for Arm: Slides coming soon, [Video](https://youtu.be/gzwq3iCP4mE)
+ * NWChem Guided Tour: [Slides](https://drive.google.com/file/d/1OCdlCRWeEXkJ9hRIoH07FwZFCElE1TEK/view?usp=sharing), [Video](https://youtu.be/GJ_oubwXUXA)
+ * Math Libraries for Arm: [Slides](https://drive.google.com/file/d/1joHHe_GnlsDBaUx6rhHUDJIFtWVFaCw2/view?usp=sharing), [Video](https://youtu.be/gzwq3iCP4mE)
  * HPCG Guided Tour: [Slides](https://drive.google.com/file/d/1LybFIwvWpt-QgOz2ByNxS6kns22CplrZ/view?usp=sharing), Video coming soon
  * Arm Forge: [Slides](https://drive.google.com/file/d/1xGC7uvUvWECS6YbswpZTLy8GNkfjrF8y/view?usp=sharing), Video coming soon
 
