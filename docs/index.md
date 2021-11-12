@@ -4,22 +4,24 @@ Run your favorite HPC applications on record-setting Arm-based HPC kit at a two-
 
 This event is generously supported by **AWS**, **OCI**, **Stony Brook University**, and **The GW4 Alliance**.  Thanks!
 
-# Slides, Videos, etc.
+# Presentations and Slides
 
-[Watch all the videos on the A-HUG Hackathon YouTube channel](https://www.youtube.com/playlist?list=PLaWQAhTtIa_pmQlEMPfl2XUpa90M2bp2a), or find slides and videos below.
+[Watch all the videos on the A-HUG Hackathon YouTube channel](https://www.youtube.com/playlist?list=PLaWQAhTtIa_pmQlEMPfl2XUpa90M2bp2a)
 
- * SPECFEM3D Guided Tour: [Slides](https://drive.google.com/file/d/11ueDwJH0pKXy2D7WXaxrUs4M-MPMuReU/view?usp=sharing), [Video](https://youtu.be/SAt6tJ9IqwA)
- * Supercomputer Fugaku: [Slides](https://drive.google.com/file/d/1qQi9qtQVjAhw2ELrLuiVojoDP8PReXCp/view?usp=sharing), [Video](https://youtu.be/oO5GN1kaFFc)
- * GROMACS Guided Tour: [Slides](https://drive.google.com/file/d/1ep07I99Fhu1lnkOuCD74DNEXZN4eejb3/view?usp=sharing), [Video](https://www.youtube.com/watch?v=PBhTPpjn8QE)
- * Spack and ReFrame: [Slides](https://drive.google.com/file/d/18CKvnNnP9JwVLKv4k2vzJ96JwAqNKz95/view?usp=sharing), [Video](https://www.youtube.com/watch?v=E5bwCtRZmRQ)
- * OpenFOAM Guided Tour: [Slides](https://drive.google.com/file/d/1CRwht3mg1Uw47WENE0TOY3pys2pJHUm1/view?usp=sharing), [Video](https://youtu.be/RuiwsnPkoic)
- * Ookami: [Slides](https://drive.google.com/file/d/1YhXn9tSrnEld6ecUKozFD3kTztXBd-ph/view?usp=sharing), [Video](https://youtu.be/DoBDe2plgI8)
- * Oracle Cloud, Arm, and HPC: [Slides](https://drive.google.com/file/d/174mBZuXlwBN4U714MEIi4_1wu6MaMFZj/view?usp=sharing), [Video](https://www.youtube.com/watch?v=_dDMn1ckqhQ)
- * CloverLeaf3D Guided Tour: Slides coming soon, Video coming soon
- * NWChem Guided Tour: [Slides](https://drive.google.com/file/d/1OCdlCRWeEXkJ9hRIoH07FwZFCElE1TEK/view?usp=sharing), [Video](https://youtu.be/GJ_oubwXUXA)
- * Math Libraries for Arm: [Slides](https://drive.google.com/file/d/1joHHe_GnlsDBaUx6rhHUDJIFtWVFaCw2/view?usp=sharing), [Video](https://youtu.be/gzwq3iCP4mE)
- * HPCG Guided Tour: [Slides](https://drive.google.com/file/d/1LybFIwvWpt-QgOz2ByNxS6kns22CplrZ/view?usp=sharing), Video coming soon
- * Arm Forge: [Slides](https://drive.google.com/file/d/1xGC7uvUvWECS6YbswpZTLy8GNkfjrF8y/view?usp=sharing), Video coming soon
+| Video                    | Resources                   | Presenters                    |
+| ------------------------ | ------------------------ | ----------------------------- |
+| [SPECFEM3D Guided Tour](https://youtu.be/SAt6tJ9IqwA) | [Slides (PDF)](https://drive.google.com/file/d/11ueDwJH0pKXy2D7WXaxrUs4M-MPMuReU/view?usp=sharing) | Fabrice Dupros, John Linford (ARM) |
+| [Supercomputer Fugaku](https://youtu.be/oO5GN1kaFFc) | [Slides (PDF)](https://drive.google.com/file/d/1qQi9qtQVjAhw2ELrLuiVojoDP8PReXCp/view?usp=sharing) | Mitsuhisa Sato (RIKEN) |
+| [GROMACS Guided Tour](https://www.youtube.com/watch?v=PBhTPpjn8QE) | [Slides (PDF)](https://drive.google.com/file/d/1ep07I99Fhu1lnkOuCD74DNEXZN4eejb3/view?usp=sharing) | Austin Cherian (AWS) | 
+| [Spack and ReFrame](https://www.youtube.com/watch?v=E5bwCtRZmRQ) | [Slides (PDF)](https://drive.google.com/file/d/18CKvnNnP9JwVLKv4k2vzJ96JwAqNKz95/view?usp=sharing) | Olly Perks (Arm) | 
+| [OpenFOAM Guided Tour](https://youtu.be/RuiwsnPkoic) | [Slides (PDF)](https://drive.google.com/file/d/1CRwht3mg1Uw47WENE0TOY3pys2pJHUm1/view?usp=sharing) | Olly Perks (Arm) |
+| [Stony Brook's Ookami System](https://youtu.be/DoBDe2plgI8) | [Slides (PDF)](https://drive.google.com/file/d/1YhXn9tSrnEld6ecUKozFD3kTztXBd-ph/view?usp=sharing) | Eva Siegmann (Stony Brook) |
+| [Oracle Cloud, Arm, and HPC](https://www.youtube.com/watch?v=_dDMn1ckqhQ) | [Slides (PDF)](https://drive.google.com/file/d/174mBZuXlwBN4U714MEIi4_1wu6MaMFZj/view?usp=sharing) | Kevin Jorissen (OCI) |
+| [CloverLeaf3D Guided Tour](https://youtu.be/CTTclw1O-EY) | Coming soon | Srinath Vadlamani (Arm) |
+| [NWChem Guided Tour](https://youtu.be/GJ_oubwXUXA) | [Slides (PDF)](https://drive.google.com/file/d/1OCdlCRWeEXkJ9hRIoH07FwZFCElE1TEK/view?usp=sharing) | Jeff Hammond (NVIDIA) |
+| [Math Libraries for Arm](https://youtu.be/gzwq3iCP4mE) | [Slides (PDF)](https://drive.google.com/file/d/1joHHe_GnlsDBaUx6rhHUDJIFtWVFaCw2/view?usp=sharing) | Chris Goodyer (Arm) |
+| [HPCG Guided Tour](https://youtu.be/BlrjZWmCBdU) | [Slides (PDF)](https://drive.google.com/file/d/1LybFIwvWpt-QgOz2ByNxS6kns22CplrZ/view?usp=sharing) | Lucas Pettey (Arm) |
+| [Arm Forge](https://youtu.be/J7a5TmwAtKw) | [Slides (PDF)](https://drive.google.com/file/d/1xGC7uvUvWECS6YbswpZTLy8GNkfjrF8y/view?usp=sharing), [Resources (PDF)](https://drive.google.com/file/d/1Mvj26VjPoy6L7Lc6V55RoCPH6-iEUI5t/view?usp=sharing) | Beau Paisley, Andrew Westergren (Arm) |
 
 
 # Schedule and Logistics
