@@ -5,14 +5,18 @@ Run your favorite HPC applications on record-setting Arm-based HPC kit at a two-
 This event is generously supported by **AWS**, **OCI**, **Stony Brook University**, and **The GW4 Alliance**.  Thanks!
 
 # Slides, Videos, etc.
- * **SPECFEM3D Guided Tour**: [Slides](https://drive.google.com/file/d/11ueDwJH0pKXy2D7WXaxrUs4M-MPMuReU/view?usp=sharing), [Video](https://youtu.be/SAt6tJ9IqwA)
- * **Supercomputer "Fugaku"**: [Slides](https://drive.google.com/file/d/1qQi9qtQVjAhw2ELrLuiVojoDP8PReXCp/view?usp=sharing), [Video](https://youtu.be/oO5GN1kaFFc)
- * **GROMACS Guided Tour**: [Slides](https://drive.google.com/file/d/1ep07I99Fhu1lnkOuCD74DNEXZN4eejb3/view?usp=sharing), [Video](https://www.youtube.com/watch?v=PBhTPpjn8QE)
- * **Spack and ReFrame Introduction**: [Slides](https://drive.google.com/file/d/18CKvnNnP9JwVLKv4k2vzJ96JwAqNKz95/view?usp=sharing), [Video](https://www.youtube.com/watch?v=E5bwCtRZmRQ)
- * **OpenFOAM Guided Tour**: [Slides](https://drive.google.com/file/d/1CRwht3mg1Uw47WENE0TOY3pys2pJHUm1/view?usp=sharing), [Video](https://youtu.be/RuiwsnPkoic)
- * **Ookami**: [Slides](https://drive.google.com/file/d/1YhXn9tSrnEld6ecUKozFD3kTztXBd-ph/view?usp=sharing), [Video](https://youtu.be/DoBDe2plgI8)
- * **Oracle Cloud, Arm, and HPC**: [Slides](https://drive.google.com/file/d/174mBZuXlwBN4U714MEIi4_1wu6MaMFZj/view?usp=sharing), Video coming soon
-
+ * SPECFEM3D Guided Tour: [Slides](https://drive.google.com/file/d/11ueDwJH0pKXy2D7WXaxrUs4M-MPMuReU/view?usp=sharing), [Video](https://youtu.be/SAt6tJ9IqwA)
+ * Supercomputer Fugaku: [Slides](https://drive.google.com/file/d/1qQi9qtQVjAhw2ELrLuiVojoDP8PReXCp/view?usp=sharing), [Video](https://youtu.be/oO5GN1kaFFc)
+ * GROMACS Guided Tour: [Slides](https://drive.google.com/file/d/1ep07I99Fhu1lnkOuCD74DNEXZN4eejb3/view?usp=sharing), [Video](https://www.youtube.com/watch?v=PBhTPpjn8QE)
+ * Spack and ReFrame: [Slides](https://drive.google.com/file/d/18CKvnNnP9JwVLKv4k2vzJ96JwAqNKz95/view?usp=sharing), [Video](https://www.youtube.com/watch?v=E5bwCtRZmRQ)
+ * OpenFOAM Guided Tour: [Slides](https://drive.google.com/file/d/1CRwht3mg1Uw47WENE0TOY3pys2pJHUm1/view?usp=sharing), [Video](https://youtu.be/RuiwsnPkoic)
+ * Ookami: [Slides](https://drive.google.com/file/d/1YhXn9tSrnEld6ecUKozFD3kTztXBd-ph/view?usp=sharing), [Video](https://youtu.be/DoBDe2plgI8)
+ * Oracle Cloud, Arm, and HPC: [Slides](https://drive.google.com/file/d/174mBZuXlwBN4U714MEIi4_1wu6MaMFZj/view?usp=sharing), [Video](https://www.youtube.com/watch?v=_dDMn1ckqhQ)
+ * CloverLeaf3D Guided Tour: Slides coming soon, Video coming soon
+ * NWChem Guided Tour: Slides coming soon, [Video](https://youtu.be/GJ_oubwXUXA)
+ * Math Libraries for Arm: Slides coming soon, [Video](https://youtu.be/gzwq3iCP4mE)
+ * HPCG Guided Tour: [Slides](https://drive.google.com/file/d/1LybFIwvWpt-QgOz2ByNxS6kns22CplrZ/view?usp=sharing), Video coming soon
+ * Arm Forge: [Slides](https://drive.google.com/file/d/1xGC7uvUvWECS6YbswpZTLy8GNkfjrF8y/view?usp=sharing), Video coming soon
 
 
 # Schedule and Logistics
