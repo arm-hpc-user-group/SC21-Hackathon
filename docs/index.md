@@ -5,6 +5,9 @@ Run your favorite HPC applications on record-setting Arm-based HPC kit at a two-
 This event is generously supported by **AWS**, **OCI**, **Stony Brook University**, and **The GW4 Alliance**.  Thanks!
 
 # Slides, Videos, etc.
+
+[Watch all the videos on the A-HUG Hackathon YouTube channel](https://www.youtube.com/playlist?list=PLaWQAhTtIa_pmQlEMPfl2XUpa90M2bp2a), or find slides and videos below.
+
  * SPECFEM3D Guided Tour: [Slides](https://drive.google.com/file/d/11ueDwJH0pKXy2D7WXaxrUs4M-MPMuReU/view?usp=sharing), [Video](https://youtu.be/SAt6tJ9IqwA)
  * Supercomputer Fugaku: [Slides](https://drive.google.com/file/d/1qQi9qtQVjAhw2ELrLuiVojoDP8PReXCp/view?usp=sharing), [Video](https://youtu.be/oO5GN1kaFFc)
  * GROMACS Guided Tour: [Slides](https://drive.google.com/file/d/1ep07I99Fhu1lnkOuCD74DNEXZN4eejb3/view?usp=sharing), [Video](https://www.youtube.com/watch?v=PBhTPpjn8QE)
