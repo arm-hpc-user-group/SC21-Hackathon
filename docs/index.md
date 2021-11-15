@@ -12,7 +12,7 @@ This event is generously supported by **AWS**, **OCI**, **Stony Brook University
 
 | Video                    | Resources                   | Presenters                    |
 | ------------------------ | ------------------------ | ----------------------------- |
-| [SPECFEM3D Guided Tour](https://youtu.be/SAt6tJ9IqwA) | [Slides (PDF)](https://drive.google.com/file/d/11ueDwJH0pKXy2D7WXaxrUs4M-MPMuReU/view?usp=sharing), [Instructions](https://gitlab.com/arm-hpc/packages/-/wikis/packages/specfem3d_globe) | Fabrice Dupros, John Linford (ARM) |
+| [SPECFEM3D Guided Tour](https://youtu.be/SAt6tJ9IqwA) | [Slides (PDF)](https://drive.google.com/file/d/11ueDwJH0pKXy2D7WXaxrUs4M-MPMuReU/view?usp=sharing), [Instructions](https://gitlab.com/arm-hpc/packages/-/wikis/packages/specfem3d_globe) | Fabrice Dupros, John Linford (Arm) |
 | [Supercomputer Fugaku](https://youtu.be/oO5GN1kaFFc) | [Slides (PDF)](https://drive.google.com/file/d/1qQi9qtQVjAhw2ELrLuiVojoDP8PReXCp/view?usp=sharing) | Mitsuhisa Sato (RIKEN) |
 | [GROMACS Guided Tour](https://www.youtube.com/watch?v=PBhTPpjn8QE) | [Slides (PDF)](https://drive.google.com/file/d/1ep07I99Fhu1lnkOuCD74DNEXZN4eejb3/view?usp=sharing), [Instructions](https://gitlab.com/arm-hpc/packages/-/wikis/packages/gromacs) | Austin Cherian (AWS) | 
 | [Spack and ReFrame](https://www.youtube.com/watch?v=E5bwCtRZmRQ) | [Slides (PDF)](https://drive.google.com/file/d/18CKvnNnP9JwVLKv4k2vzJ96JwAqNKz95/view?usp=sharing) | Olly Perks (Arm) | 
